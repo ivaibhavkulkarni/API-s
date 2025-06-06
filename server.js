@@ -16,4 +16,8 @@ app.get('/data', (req, res) => {
   }
 });
 
+app.get("/", (req,res) => {
+    res.send("Welcome to Vaibhav's API's")
+});
+
 app.listen(3000, () => console.log('Server running'));
