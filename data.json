@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Walter White",
+      "nickname": "Heisenberg",
+      "occupation": ["High School Chemistry Teacher", "Meth Kingpin"],
+      "status": "Deceased",
+      "portrayed_by": "Bryan Cranston"
+    },
+    {
+      "id": 2,
+      "name": "Jesse Pinkman",
+      "nickname": "Cap n' Cook",
+      "occupation": ["Meth Manufacturer", "Former Student"],
+      "status": "Alive",
+      "portrayed_by": "Aaron Paul"
+    },
+    {
+      "id": 3,
+      "name": "Saul Goodman",
+      "nickname": "Jimmy McGill",
+      "occupation": ["Criminal Lawyer"],
+      "status": "Alive",
+      "portrayed_by": "Bob Odenkirk"
+    },
+    {
+      "id": 4,
+      "name": "Skyler White",
+      "nickname": null,
+      "occupation": ["Accountant", "Car Wash Manager"],
+      "status": "Alive",
+      "portrayed_by": "Anna Gunn"
+    },
+    {
+      "id": 5,
+      "name": "Hank Schrader",
+      "nickname": null,
+      "occupation": ["DEA Agent"],
+      "status": "Deceased",
+      "portrayed_by": "Dean Norris"
+    }
+  ]
+}
